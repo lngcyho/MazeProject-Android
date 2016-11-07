@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MazeProject-Android</string>
+
+
+    <!-- --> String for controller -->
+    <string name="up_button">Up</string>
+    <string name="down_button">Down</string>
+    <string name="left_button">Left</string>
+    <string name="right_button">Right</string>
+    <string name="scan_button">Scan</string>
+
+    <!-- backend host url and paths -->
+    <string name="url_backend_host">http://localhost:8080/maze-game</string>
+    <string name="path_health_check">/HealthCheck</string>
+    <string name="path_greet_team">/GreetTeam</string>
+    <string name="path_start_competition">/StartCompetition</string>
+</resources>

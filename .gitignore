@@ -45,3 +45,6 @@ captures/
 .DS_Store
 .externalNativeBuild
 
+# may need to remove
+gradle/wrapper/ 
+.idea
